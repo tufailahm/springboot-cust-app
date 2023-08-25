@@ -14,7 +14,7 @@ public class SpringbootCustAppApplication {
 	}
 		 @RequestMapping("/")
 	    public String home() {
-	        return "Welcome Here !! Spring Boot First Demo Shell";
+	        return "Welcome Shell Here !! Spring Boot First Demo Shell";
 	    }
 
 }
